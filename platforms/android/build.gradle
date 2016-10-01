@@ -64,7 +64,7 @@ ext {
     }
     // Sets the minSdkVersion to the given value.
     if (!project.hasProperty('cdvMinSdkVersion')) {
-        cdvMinSdkVersion = null
+        cdvMinSdkVersion = 15
     }
     // Whether to build architecture-specific APKs.
     if (!project.hasProperty('cdvBuildMultipleApks')) {
