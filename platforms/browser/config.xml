@@ -11,8 +11,8 @@
     <access origin="https://api.facebook.com" />
     <access origin="https://*.fbcdn.net" />
     <access origin="https://*.akamaihd.net" />
-    <name>phonegap</name>
-    <description>Hello World sample application that responds to the deviceready event.</description>
+    <name>Part服務社群</name>
+    <description>以互相服務為目的的社群</description>
     <author email="support@phonegap.com" href="http://phonegap.com">PhoneGap Team</author>
     <content src="index.html" />
     <icon src="icon.png" />
