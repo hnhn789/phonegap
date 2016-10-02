@@ -12,8 +12,9 @@
     <access origin="https://*.fbcdn.net" />
     <access origin="https://*.akamaihd.net" />
     <name>Part服務社群</name>
-    <description>以互相服務為目的的社群</description>
+    <description>以互相服務為目的社群</description>
     <author email="support@phonegap.com" href="http://phonegap.com">PhoneGap Team</author>
+    <icon role="default" src="icon.png" />
     <content src="index.html" />
     <icon src="icon.png" />
     <access origin="*" />
